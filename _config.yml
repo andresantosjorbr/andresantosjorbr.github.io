@@ -28,14 +28,17 @@ disqus: andresantos-jor-br
 google_analytics: UA-86662660-1
 
 # Vitae
-tel_ful:
-tel:
-google_maps:
-address:
-postcode:
-city:
-country:
-website:
+email: christurner@me.com
+email_full: mailto:youremail@me.com
+website: github.io/sustain
+website_full: https://biomadeira.github.io/sustain
+tel: +44 0000 000000
+tel_full: tel:+440000000000
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: 44 Perth Street
+postcode: EH3 5BL
+city: Edinburgh
+country: United Kingdom
 
 
 # needed for travis-ci build
