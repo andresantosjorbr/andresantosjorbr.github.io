@@ -1,0 +1,32 @@
+# top level stuff you probably don't need to touch
+# highlighter: pygments
+# markdown: rdiscount
+# rdiscount:
+#   extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: 
+baseurl: http://andresantos.jor.br/
+title: Andre Santos
+author: Andre Santos
+description: jornalismo e assessoria de imprensa - currículo e portfólio
+avatar: https://en.gravatar.com/userimage/111088033/7ce7f9bc906c76bf39da82055cec6db2.jpg?size=200
+email: andre.scutieri@outlook.com
+github: andreScutieri # username
+twitter: andre_scutieri
+facebook: 
+linkedin: 
+stackoverflow:   #e.g: users/2735833/proton1h
+#Comment out if you don't want disqus 
+disqus: andresantos-jor-br
+google_analytics: UA-86662660-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
